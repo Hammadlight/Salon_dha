@@ -1,0 +1,34 @@
+[
+  {
+    "id": "b1",
+    "title": "Five Bridal Hair Trends for the Coming Season",
+    "category": "Bridal Advice",
+    "image": "https://images.unsplash.com/photo-1595959183082-7b570b7e08e2?q=80&w=1000&auto=format&fit=crop",
+    "excerpt": "From soft undone waves to sculptural low buns, here's what brides are asking for at their trials this season.",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "b2",
+    "title": "How to Make Balayage Last Between Appointments",
+    "category": "Hair Care",
+    "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=1000&auto=format&fit=crop",
+    "excerpt": "A colorist's guide to the wash routine, tools, and touch-up schedule that keeps balayage looking fresh for longer.",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "b3",
+    "title": "Building a Skin Routine Before Your Wedding Day",
+    "category": "Skin Care",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=1000&auto=format&fit=crop",
+    "excerpt": "What to start, and when, so your skin is camera-ready without last-minute surprises.",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "b4",
+    "title": "This Season's Most Requested Makeup Looks",
+    "category": "Trending Makeup",
+    "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=1000&auto=format&fit=crop",
+    "excerpt": "Soft-focus bases, warm terracotta tones, and graphic liner are dominating our appointment book this month.",
+    "date": "2026-04-10"
+  }
+]

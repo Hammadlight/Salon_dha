@@ -1,0 +1,38 @@
+[
+  {
+    "id": "amara-cole",
+    "name": "Amara Cole",
+    "role": "Founder & Creative Director",
+    "specialization": "Bridal Makeup, Color Direction",
+    "experience": "15 years",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=800&auto=format&fit=crop",
+    "social": { "instagram": "https://www.instagram.com/fusionsalonbymadiha/" }
+  },
+  {
+    "id": "priya-sharma",
+    "name": "Priya Sharma",
+    "role": "Lead Makeup Artist",
+    "specialization": "HD & Airbrush Makeup",
+    "experience": "10 years",
+    "image": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?q=80&w=800&auto=format&fit=crop",
+    "social": { "instagram": "https://www.instagram.com/fusionsalonbymadiha/", "tiktok": "https://tiktok.com" }
+  },
+  {
+    "id": "jae-lin",
+    "name": "Jae Lin",
+    "role": "Senior Hair Stylist",
+    "specialization": "Balayage, Bridal Hair",
+    "experience": "12 years",
+    "image": "https://images.unsplash.com/photo-1595959183082-7b570b7e08e2?q=80&w=800&auto=format&fit=crop",
+    "social": { "instagram": "https://www.instagram.com/fusionsalonbymadiha/" }
+  },
+  {
+    "id": "noor-fatima",
+    "name": "Noor Fatima",
+    "role": "Skin & Facial Specialist",
+    "specialization": "Medical-Grade Facials",
+    "experience": "8 years",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=800&auto=format&fit=crop",
+    "social": { "instagram": "https://www.instagram.com/fusionsalonbymadiha/" }
+  }
+]

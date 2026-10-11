@@ -1,0 +1,74 @@
+[
+  {
+    "id": "luxury-bridal-look",
+    "name": "The Luxury Bridal Look",
+    "categories": ["Bridal", "Luxury Bridal", "Traditional"],
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=1200&auto=format&fit=crop",
+    "beforeImage": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1200&auto=format&fit=crop",
+    "afterImage": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=1200&auto=format&fit=crop",
+    "description": "A full-coverage, long-wear bridal look built in warm golds and soft contour, finished with hand-set lashes for a bridal-portrait glow that lasts from ceremony to reception.",
+    "products": ["HD foundation", "Cream contour", "Bridal lash set", "Setting spray"],
+    "duration": "2.5 hrs",
+    "price": 380
+  },
+  {
+    "id": "nikah-classic",
+    "name": "Nikah Classic Radiance",
+    "categories": ["Nikah", "Traditional", "Bridal"],
+    "image": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?q=80&w=1200&auto=format&fit=crop",
+    "beforeImage": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=1200&auto=format&fit=crop",
+    "afterImage": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?q=80&w=1200&auto=format&fit=crop",
+    "description": "A softer, luminous take on bridal makeup for the Nikah ceremony — dewy base, rose-toned eyes, and a subtle lip built to photograph beautifully in daylight.",
+    "products": ["Dewy foundation", "Rose eyeshadow palette", "Tinted lip balm"],
+    "duration": "90 min",
+    "price": 260
+  },
+  {
+    "id": "walima-glam",
+    "name": "Walima Evening Glam",
+    "categories": ["Walima", "Party", "HD Makeup", "Modern"],
+    "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=1200&auto=format&fit=crop",
+    "beforeImage": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?q=80&w=1200&auto=format&fit=crop",
+    "afterImage": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=1200&auto=format&fit=crop",
+    "description": "Bold, dimensional eyes and a deep berry lip designed for evening light and flash photography at the reception.",
+    "products": ["HD foundation", "Smoked eyeliner", "Berry lip lacquer"],
+    "duration": "75 min",
+    "price": 240
+  },
+  {
+    "id": "reception-airbrush",
+    "name": "Reception Airbrush Finish",
+    "categories": ["Reception", "Airbrush", "Modern", "HD Makeup"],
+    "image": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?q=80&w=1200&auto=format&fit=crop",
+    "beforeImage": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=1200&auto=format&fit=crop",
+    "afterImage": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?q=80&w=1200&auto=format&fit=crop",
+    "description": "Airbrushed base for a poreless, weightless finish that holds through hours of dancing and photos.",
+    "products": ["Airbrush foundation", "Cream blush", "Waterproof mascara"],
+    "duration": "70 min",
+    "price": 230
+  },
+  {
+    "id": "engagement-soft-glam",
+    "name": "Engagement Soft Glam",
+    "categories": ["Engagement", "Party", "Modern"],
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?q=80&w=1200&auto=format&fit=crop",
+    "beforeImage": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=1200&auto=format&fit=crop",
+    "afterImage": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?q=80&w=1200&auto=format&fit=crop",
+    "description": "A luminous, softly contoured look with a neutral smoky eye — polished without looking overdone for daytime engagement photos.",
+    "products": ["Satin foundation", "Neutral smoky palette", "Highlighter"],
+    "duration": "60 min",
+    "price": 190
+  },
+  {
+    "id": "festive-traditional",
+    "name": "Festive Traditional Glow",
+    "categories": ["Festive", "Traditional"],
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?q=80&w=1200&auto=format&fit=crop",
+    "beforeImage": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=1200&auto=format&fit=crop",
+    "afterImage": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?q=80&w=1200&auto=format&fit=crop",
+    "description": "Warm golds and a defined kohl eye, styled for festival mornings and family celebrations.",
+    "products": ["Cream-to-powder foundation", "Kohl eyeliner", "Gold pigment"],
+    "duration": "50 min",
+    "price": 150
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "t1",
+    "name": "Sophia R.",
+    "rating": 5,
+    "service": "Bridal Package",
+    "quote": "Every detail was considered, from the trial down to touch-ups during the reception. I felt completely like myself, just polished.",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "id": "t2",
+    "name": "Layla M.",
+    "rating": 5,
+    "service": "Balayage",
+    "quote": "The color grew out so naturally that I stretched my appointments an extra month without anyone noticing.",
+    "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "id": "t3",
+    "name": "Hana K.",
+    "rating": 5,
+    "service": "HD Makeup",
+    "quote": "Booked for a photoshoot on short notice and the finish held perfectly under studio lighting for six hours straight.",
+    "image": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "id": "t4",
+    "name": "Grace T.",
+    "rating": 5,
+    "service": "Facial",
+    "quote": "The consultation alone was worth the visit — genuinely tailored to what my skin needed that week, not a fixed menu.",
+    "image": "https://images.unsplash.com/photo-1522336284037-91f7da073525?q=80&w=400&auto=format&fit=crop"
+  }
+]

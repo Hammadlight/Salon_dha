@@ -1,0 +1,11 @@
+[
+  { "id": "g1", "category": "Bridal", "image": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=1000&auto=format&fit=crop", "caption": "Bridal portrait finish" },
+  { "id": "g2", "category": "Hair", "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=1000&auto=format&fit=crop", "caption": "Balayage detail" },
+  { "id": "g3", "category": "Makeup", "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=1000&auto=format&fit=crop", "caption": "HD evening look" },
+  { "id": "g4", "category": "Salon", "image": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=1000&auto=format&fit=crop", "caption": "Studio interior" },
+  { "id": "g5", "category": "Events", "image": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?q=80&w=1000&auto=format&fit=crop", "caption": "On-location bridal party" },
+  { "id": "g6", "category": "Hair", "image": "https://images.unsplash.com/photo-1522336284037-91f7da073525?q=80&w=1000&auto=format&fit=crop", "caption": "Editorial styling" },
+  { "id": "g7", "category": "Makeup", "image": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?q=80&w=1000&auto=format&fit=crop", "caption": "Airbrush application" },
+  { "id": "g8", "category": "Bridal", "image": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?q=80&w=1000&auto=format&fit=crop", "caption": "Reception glam" },
+  { "id": "g9", "category": "Salon", "image": "https://images.unsplash.com/photo-1470259078422-826894b933aa?q=80&w=1000&auto=format&fit=crop", "caption": "Reception lounge" }
+]

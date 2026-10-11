@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Hair",
+    "items": [
+      { "name": "Blowout & Styling", "price": 85, "duration": "60 min" },
+      { "name": "Balayage & Color", "price": 220, "duration": "2.5 hrs" },
+      { "name": "Keratin Treatment", "price": 180, "duration": "2 hrs" }
+    ]
+  },
+  {
+    "category": "Skin",
+    "items": [
+      { "name": "Radiance Facial", "price": 120, "duration": "75 min" },
+      { "name": "Deep Cleanse Facial", "price": 95, "duration": "50 min" }
+    ]
+  },
+  {
+    "category": "Bridal",
+    "items": [
+      { "name": "Bridal Makeup & Trial", "price": 350, "duration": "2 hrs" },
+      { "name": "Complete Bridal Package", "price": 950, "duration": "5 hrs" }
+    ]
+  },
+  {
+    "category": "Nails",
+    "items": [
+      { "name": "Signature Manicure", "price": 45, "duration": "45 min" },
+      { "name": "Gel Pedicure", "price": 55, "duration": "50 min" }
+    ]
+  },
+  {
+    "category": "Spa",
+    "items": [
+      { "name": "Relaxation Massage", "price": 110, "duration": "60 min" },
+      { "name": "Hot Stone Add-On", "price": 35, "duration": "20 min" }
+    ]
+  }
+]

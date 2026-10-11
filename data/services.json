@@ -1,0 +1,152 @@
+[
+  {
+    "id": "hair-styling",
+    "category": "Hair",
+    "code": "HR",
+    "name": "Signature Blowout & Styling",
+    "description": "A tailored wash, blowout, and finish built around your hair's natural movement — polished enough for evening, easy enough for everyday.",
+    "image": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=1200&auto=format&fit=crop",
+    "price": 85,
+    "duration": "60 min"
+  },
+  {
+    "id": "hair-color",
+    "category": "Hair",
+    "code": "HR",
+    "name": "Dimensional Color & Balayage",
+    "description": "Hand-painted color built in soft gradients, so regrowth looks intentional and upkeep stays simple.",
+    "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=1200&auto=format&fit=crop",
+    "price": 220,
+    "duration": "2.5 hrs"
+  },
+  {
+    "id": "hair-treatment",
+    "category": "Hair",
+    "code": "HR",
+    "name": "Keratin Restoration Treatment",
+    "description": "A deep-conditioning treatment that rebuilds strength and shine from the inside of the strand out.",
+    "image": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?q=80&w=1200&auto=format&fit=crop",
+    "price": 180,
+    "duration": "2 hrs"
+  },
+  {
+    "id": "classic-facial",
+    "category": "Skin",
+    "code": "SK",
+    "name": "Radiance Facial",
+    "description": "A customized facial with double cleanse, enzyme exfoliation, and a calming mask suited to your skin's needs that week.",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=1200&auto=format&fit=crop",
+    "price": 120,
+    "duration": "75 min"
+  },
+  {
+    "id": "hd-makeup",
+    "category": "Makeup",
+    "code": "MU",
+    "name": "HD Makeup Application",
+    "description": "Camera-ready, high-definition finish with long-wear formulas — ideal for events, portraits, and evenings out.",
+    "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=1200&auto=format&fit=crop",
+    "price": 95,
+    "duration": "50 min"
+  },
+  {
+    "id": "airbrush-makeup",
+    "category": "Makeup",
+    "code": "MU",
+    "name": "Airbrush Makeup",
+    "description": "A weightless, buildable finish applied with airbrush technique for all-day wear without a heavy feel.",
+    "image": "https://images.unsplash.com/photo-1596704017254-9b121068fb31?q=80&w=1200&auto=format&fit=crop",
+    "price": 130,
+    "duration": "60 min"
+  },
+  {
+    "id": "bridal-makeup",
+    "category": "Bridal",
+    "code": "BR",
+    "name": "Bridal Makeup & Trial",
+    "description": "A full trial followed by wedding-day application, timed around your getting-ready schedule and touch-up kit included.",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=1200&auto=format&fit=crop",
+    "price": 350,
+    "duration": "2 hrs"
+  },
+  {
+    "id": "bridal-package",
+    "category": "Bridal",
+    "code": "BR",
+    "name": "Complete Bridal Package",
+    "description": "Hair, makeup, and skin prep bundled for the bride and up to four members of the party, coordinated by one lead artist.",
+    "image": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?q=80&w=1200&auto=format&fit=crop",
+    "price": 950,
+    "duration": "5 hrs"
+  },
+  {
+    "id": "manicure",
+    "category": "Nails",
+    "code": "NL",
+    "name": "Signature Manicure",
+    "description": "Shape, cuticle care, and a finish of your choice in gel or classic polish.",
+    "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?q=80&w=1200&auto=format&fit=crop",
+    "price": 45,
+    "duration": "45 min"
+  },
+  {
+    "id": "waxing",
+    "category": "Waxing",
+    "code": "WX",
+    "name": "Full Waxing Services",
+    "description": "Precise, gentle waxing across face and body using a low-temperature formula suited to sensitive skin.",
+    "image": "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=1200&auto=format&fit=crop",
+    "price": 40,
+    "duration": "30 min"
+  },
+  {
+    "id": "threading",
+    "category": "Threading",
+    "code": "TH",
+    "name": "Brow & Face Threading",
+    "description": "Clean, precise shaping with traditional threading — gentler on skin than waxing, sharper than tweezing alone.",
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?q=80&w=1200&auto=format&fit=crop",
+    "price": 25,
+    "duration": "20 min"
+  },
+  {
+    "id": "massage",
+    "category": "Spa",
+    "code": "SP",
+    "name": "Relaxation Massage",
+    "description": "A full-body massage with adjustable pressure, finished with a warm towel ritual to close the session.",
+    "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1200&auto=format&fit=crop",
+    "price": 110,
+    "duration": "60 min"
+  },
+  {
+    "id": "eyelash",
+    "category": "Eyelashes",
+    "code": "LS",
+    "name": "Classic Lash Extensions",
+    "description": "Individually applied lashes for natural-looking length and density that holds for weeks.",
+    "image": "https://images.unsplash.com/photo-1583001809873-a128495da465?q=80&w=1200&auto=format&fit=crop",
+    "price": 140,
+    "duration": "90 min"
+  },
+  {
+    "id": "eyebrow",
+    "category": "Eyebrows",
+    "code": "BW",
+    "name": "Brow Sculpt & Tint",
+    "description": "Shaping, tinting, and a light lamination finish that keeps brows defined for weeks with minimal upkeep.",
+    "image": "https://images.unsplash.com/photo-1583241800698-9c2409e10286?q=80&w=1200&auto=format&fit=crop",
+    "price": 55,
+    "duration": "40 min"
+  },
+  {
+    "id": "henna",
+    "category": "Henna",
+    "code": "HN",
+    "name": "Bridal Henna Art",
+    "description": "Hand-drawn traditional and modern henna designs for engagements, weddings, and festive occasions.",
+    "image": "https://images.unsplash.com/photo-1610030181087-540c3d112c31?q=80&w=1200&auto=format&fit=crop",
+    "price": 150,
+    "duration": "2 hrs"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  { "id": "f1", "question": "How far in advance should I book a bridal appointment?", "answer": "We recommend booking your bridal trial 2–3 months ahead of the wedding date, and confirming the final wedding-day booking at least 4 weeks out. Peak season (spring and fall) fills faster." },
+  { "id": "f2", "question": "Do you offer trials before the wedding day?", "answer": "Yes. Every bridal package includes one full trial so we can finalize the look together before the day itself." },
+  { "id": "f3", "question": "What is your cancellation policy?", "answer": "We ask for at least 48 hours' notice for cancellations or reschedules. Bridal deposits are non-refundable but fully transferable to a new date within 6 months." },
+  { "id": "f4", "question": "Can you travel to a venue for on-location services?", "answer": "Yes, on-location bridal and event services are available within the metro area for an additional travel fee, shown at checkout when you select a venue address." },
+  { "id": "f5", "question": "Do you accommodate sensitive skin or allergies?", "answer": "Always let us know during booking. We keep a fragrance-free and hypoallergenic product line on hand for facials, makeup, and waxing services." },
+  { "id": "f6", "question": "What payment methods do you accept?", "answer": "We accept all major credit cards, Apple Pay, and cash. A deposit is required to confirm bridal and package bookings." }
+]
